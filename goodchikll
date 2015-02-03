@@ -3,3 +3,9 @@ git status
 git add "name"
 git log
 git commit -m "commit"
+git push origin master
+
+
+
+
+Ik verander hier iets en beweer dat er dan geeen verandering in me master branch en wel in me test branch
