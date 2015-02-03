@@ -1,1 +1,5 @@
 elhd'gjddd[ddj[o
+git status
+git add "name"
+git log
+git commit -m "commit"
