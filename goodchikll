@@ -4,7 +4,7 @@ git add "name"
 git log
 git commit -m "commit"
 git push origin master
-
+git checkout "master"
 
 
 
